@@ -21,12 +21,12 @@ The project highlights key **systems programming concepts** including:
 
 ## ✨ Features
 
-🔐 Encode secret text data inside a **BMP image**
-🔓 Decode and recover hidden data from the image
-🧠 Uses **LSB bit manipulation technique**
-🧩 Supports **24-bit BMP images**
-⚙️ Validates file formats and image capacity
-📂 Modular code design with header files
+🔐 Encode secret text data inside a **BMP image**\
+🔓 Decode and recover hidden data from the image\
+🧠 Uses **LSB bit manipulation technique**\
+🧩 Supports **24-bit BMP images**\
+⚙️ Validates file formats and image capacity\
+📂 Modular code design with header files\
 📜 Logging messages during encoding & decoding
 
 ---
@@ -191,5 +191,5 @@ https://www.linkedin.com/in/ajinkya-kadam-54a51b283
 
 If you found this project useful:
 
-⭐ Star this repository on GitHub
+⭐ Star this repository on GitHub\
 📢 Share it with others interested in **C programming and steganography**
